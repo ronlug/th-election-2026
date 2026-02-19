@@ -1,0 +1,113 @@
+{
+   "kind": "youtube#commentThreadListResponse",
+   "etag": "l8uZ8dpzhE8z7Wz5wY1M9EOko1Y",
+   "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJZ2dHQUFTQlFpSklCZ0FFZ1VJblNBWUFSSUZDSWNnR0FBU0JRaW9JQmdBSWc0S0RBaUc4T0xMQmhDd3VJS1lBdw==",
+   "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+   },
+   "items": [
+      {
+         "kind": "youtube#commentThread",
+         "etag": "AjaNyzp6hwkSnbQ1lpMFA6Jn1hc",
+         "id": "UgzMFimiAoFUEyMCiEJ4AaABAg",
+         "snippet": {
+            "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+            "videoId": "Nr88GhOtI3o",
+            "topLevelComment": {
+               "kind": "youtube#comment",
+               "etag": "SbZ1TLCgar9Q4xtVR6ZPXwbnYh8",
+               "id": "UgzMFimiAoFUEyMCiEJ4AaABAg",
+               "snippet": {
+                  "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+                  "videoId": "Nr88GhOtI3o",
+                  "textDisplay": "🇺🇸",
+                  "textOriginal": "🇺🇸",
+                  "authorDisplayName": "@natthama7399",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/U-F6k8ogttkOh82RqWmEt2fZNCxbsY9f5JCneeYEbBUw3LUtCz6-J8EaNVG48ArdMjtnt-4mKQ=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@natthama7399",
+                  "authorChannelId": {
+                     "value": "UCo0lGgH8DAVdssnSOhXjeXw"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2026-01-27T15:48:47Z",
+                  "updatedAt": "2026-01-27T15:48:47Z"
+               }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+         }
+      },
+      {
+         "kind": "youtube#commentThread",
+         "etag": "q4Vf8qTvfPDde0waXz-OxE3qGzM",
+         "id": "UgydFXZECeNp3DTRGGN4AaABAg",
+         "snippet": {
+            "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+            "videoId": "Nr88GhOtI3o",
+            "topLevelComment": {
+               "kind": "youtube#comment",
+               "etag": "NETSg0wva_KC4KBoZS_BIzLHJRw",
+               "id": "UgydFXZECeNp3DTRGGN4AaABAg",
+               "snippet": {
+                  "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+                  "videoId": "Nr88GhOtI3o",
+                  "textDisplay": "Bilingual please 🇹🇭🇺🇸",
+                  "textOriginal": "Bilingual please 🇹🇭🇺🇸",
+                  "authorDisplayName": "@piyabitch1",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/ObaLWFV5xDGQifV5w0qJmp0dun13k-VGxIu8xZ6rqqUcUCr7zrXo_AV67h0JWXoQYNjtqmclPQ=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@piyabitch1",
+                  "authorChannelId": {
+                     "value": "UCIrlzVQKkB4GSRs7yj0TStQ"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2026-01-27T13:09:52Z",
+                  "updatedAt": "2026-01-27T13:09:52Z"
+               }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+         }
+      },
+      {
+         "kind": "youtube#commentThread",
+         "etag": "dDgsMJToHGllQpixQrr770TJ2ZE",
+         "id": "UgwSkllvzHjwJJmG9nd4AaABAg",
+         "snippet": {
+            "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+            "videoId": "Nr88GhOtI3o",
+            "topLevelComment": {
+               "kind": "youtube#comment",
+               "etag": "OfFhQ3rfZfxDCUlqwJ0HsKBZZuI",
+               "id": "UgwSkllvzHjwJJmG9nd4AaABAg",
+               "snippet": {
+                  "channelId": "UCt6lCFd0rS_y8Td1nHA1A4w",
+                  "videoId": "Nr88GhOtI3o",
+                  "textDisplay": "เจ๋งเลยครับ ทำคลิปมาอีกนะครับ",
+                  "textOriginal": "เจ๋งเลยครับ ทำคลิปมาอีกนะครับ",
+                  "authorDisplayName": "@winmix55",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/J85mB7Ms0nEt2WP_J4OPS9DjYNV4IM2g7Dj3G267uLnGIBE1oxMfvH0IJSJLskyG8skqOLku=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@winmix55",
+                  "authorChannelId": {
+                     "value": "UCmheeiohv5-bTJXEyVEGrUA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2026-01-27T13:05:11Z",
+                  "updatedAt": "2026-01-27T13:05:11Z"
+               }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+         }
+      }
+   ]
+}
